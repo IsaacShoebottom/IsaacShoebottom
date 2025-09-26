@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isaac
-- 👀 I’m interested in application programming, game modding and game making!
-- 🌱 I’m currently learning at UNB
-- 📫 You can reach me on discord (Isaac#9645) and my email (ir.shoebottom@gmail.com)
+- Hello, I'm Isaac Shoebottom
+- Student of UNB (Universiy of New Brunswick)
+- I am interested in web development, application development, containerization, and infrastructure.
+- You can reach me on discord (isaac.shoebottom) and my email (ir.shoebottom@gmail.com)
