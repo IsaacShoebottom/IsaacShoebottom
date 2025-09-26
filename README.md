@@ -1,4 +1,4 @@
 - Hello, I'm Isaac Shoebottom
 - Student of UNB (Universiy of New Brunswick)
 - I am interested in web development, application development, containerization, and infrastructure.
-- You can reach me on discord (isaac.shoebottom) and my email (ir.shoebottom@gmail.com)
+- You can reach me on Discord (isaac.shoebottom) and by email (ir.shoebottom@gmail.com)
